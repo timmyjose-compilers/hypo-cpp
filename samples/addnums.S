@@ -1,0 +1,8 @@
+; add 2 and 3 together
+LOADL 2
+STORE 0
+LOADL 3
+STORE 1
+LOAD 0
+ADD 1
+HALT

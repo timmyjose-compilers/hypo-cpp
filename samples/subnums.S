@@ -1,0 +1,9 @@
+; subtract 3 from 2
+
+LOADL 2
+STORE 0
+LOADL -3
+STORE 1
+LOAD 0
+ADD 1
+HALT
